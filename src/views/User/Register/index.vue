@@ -48,7 +48,7 @@
             <el-form-item prop="agree">
               <el-checkbox-group v-model="params.agree">
                 <el-checkbox
-                  label="同意协议并注册《尚品汇用户协议》"
+                  label="同意协议并注册《CC Mall用户协议》"
                   name="agree"
                 ></el-checkbox>
               </el-checkbox-group>

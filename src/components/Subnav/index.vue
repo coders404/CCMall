@@ -29,10 +29,10 @@
           </ul>
         </div>
         <ul class="type-list">
-          <li><a href="#">时尚服饰</a></li>
-          <li><a href="#">彩妆会馆</a></li>
-          <li><a href="#">LiLi超市</a></li>
-          <li><a href="#">全球好物</a></li>
+          <li><a href="#">CC服饰</a></li>
+          <li><a href="#">会馆</a></li>
+          <li><a href="#">CC超市</a></li>
+          <li><a href="#">CC好物</a></li>
           <li><a href="#">极速达</a></li>
           <li><a href="#">拼单购</a></li>
           <li><a href="#">玩具城</a></li>
@@ -112,7 +112,7 @@ export default {
       .type-all {
         width: 210px;
         height: 45px;
-        background-color: #6c9eff;
+        background-color: #4B4453;
         text-align: center;
         float: left;
         position: relative;

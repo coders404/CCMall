@@ -17,31 +17,31 @@
                 <!-- 右侧文章区域 -->
                 <div class="artical">
                     <div class="artical-top">
-                        <h3>LiLi快报</h3>
+                        <h3>CC快报</h3>
                         <span>更多 &gt;</span>
                     </div>
                     <ul class="artical-contain">
                         <li>
                             <a href="#">
                                 <h4>[特惠]</h4>
-                                <p>备战开学季 全民半价购数码</p>
+                                <p>备战暑假季 全民半价购数码</p>
                             </a>
                         </li>
                         <li><a href="#">
                                 <h4>[特惠]</h4>
-                                <p>备战开学季 全民半价购数码</p>
+                                <p>备战暑假季 全民半价购数码</p>
                             </a></li>
                         <li><a href="#">
                                 <h4>[特惠]</h4>
-                                <p>备战开学季 全民半价购数码</p>
+                                <p>备战暑假季 全民半价购数码</p>
                             </a></li>
                         <li><a href="#">
                                 <h4>[特惠]</h4>
-                                <p>备战开学季 全民半价购数码</p>
+                                <p>备战暑假季 全民半价购数码</p>
                             </a></li>
                         <li><a href="#">
                                 <h4>[特惠]</h4>
-                                <p>备战开学季 全民半价购数码</p>
+                                <p>备战暑假季 全民半价购数码</p>
                             </a></li>
                     </ul>
                     <div class="smallpics">
@@ -820,7 +820,7 @@ export default {
         }
       }
       .oneget-contain {
-        background-color: #6c9eff;
+        background-color: #4B4453;
         height: 370px;
         .oneget-left {
           width: 200px;
@@ -880,7 +880,7 @@ export default {
         height: 50px;
         line-height: 50px;
         padding-left: 15px;
-        background-color: rgb(68, 157, 174);
+        background-color: #4B4453;
         h3 {
           font-weight: 700;
           color: #fff;
